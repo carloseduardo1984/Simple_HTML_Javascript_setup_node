@@ -1,5 +1,5 @@
-# mod3week3
-Framework Javascript
+# SIMPLE JAVASCRIPT PROJECT WITH NODE
+Framework Javascript - mod3week3
 
 
 - Para criar o arquivo local
